@@ -1,0 +1,12 @@
+__pycache__
+.codegraph
+*:Zone.Identifier
+
+# Literature & theorized/future architecture notes
+LATEST_NOTES.md
+Papers/
+
+# Outdated / unwired documentation
+DOCUMENTATION.md
+AUDIO_RESEARCH_AND_DOCUMENTATION.md
+docs/

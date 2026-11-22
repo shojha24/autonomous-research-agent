@@ -1,0 +1,15 @@
+mcp
+pydantic>=2
+pyserial
+# Microscope (Thorlabs Z-stage + camera, XY serial, autofocus)
+numpy
+opencv-python
+pylablib
+scipy
+matplotlib
+
+# Voice Perception (Qwen3-ASR + Live Audio Capture)
+torch
+torchaudio
+qwen-asr
+sounddevice
